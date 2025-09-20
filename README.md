@@ -1,2 +1,2 @@
 # movie-house
-movie search app
+movie search app 
